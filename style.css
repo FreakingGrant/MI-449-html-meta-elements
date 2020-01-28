@@ -1,0 +1,32 @@
+a {
+  font-size: 1.25em;
+  padding: 1em 3em 1em 3em;
+  background-color: #9fbdff;
+  color: white;
+  text-decoration: none;
+  border-radius: 0.75em;
+}
+
+a:hover {
+  background-color: #4781ff;
+  color: white;
+}
+
+h3.price {
+  color: #9fbdff;
+}
+
+.container {
+  margin-top: 4.5em;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+}
+
+div.main-image {
+  margin-top: 3em;
+  display: flex;
+  justify-content: center;
+}
